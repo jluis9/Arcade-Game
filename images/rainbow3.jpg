@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="720"
+   height="720"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <g
+     transform="translate(0,360)"
+     id="layer1">
+    <g
+       id="g4224">
+      <path
+         d="M 0,-360 360,0 15,-360 0,-360 z"
+         id="path3171"
+         style="fill:#ff0000;stroke:none" />
+      <path
+         d="M 30,-360 360,0 45,-360 l -15,0 z"
+         id="path3216"
+         style="fill:#ff4000;stroke:none" />
+      <path
+         d="M 60,-360 360,0 75,-360 l -15,0 z"
+         id="path3218"
+         style="fill:#ff8000;stroke:none" />
+      <path
+         d="M 90,-360 360,0 105,-360 l -15,0 z"
+         id="path3220"
+         style="fill:#ffc000;stroke:none" />
+      <path
+         d="M 120,-360 360,0 135,-360 l -15,0 z"
+         id="path3222"
+         style="fill:#ffff00;stroke:none" />
+      <path
+         d="M 150,-360 360,0 165,-360 l -15,0 z"
+         id="path3224"
+         style="fill:#c0ff00;stroke:none" />
+      <path
+         d="M 180,-360 360,0 195,-360 l -15,0 z"
+         id="path3288"
+         style="fill:#80ff00;stroke:none" />
+      <path
+         d="M 210,-360 360,0 225,-360 l -15,0 z"
+         id="path3290"
+         style="fill:#40ff00;stroke:none" />
+      <path
+         d="M 240,-360 360,0 255,-360 l -15,0 z"
+         id="path3292"
+         style="fill:#00ff00;stroke:none" />
+      <path
+         d="m 270,-360 90,360 -75,-360 -15,0 z"
+         id="path3294"
+         style="fill:#00ff40;stroke:none" />
+      <path
+         d="m 300,-360 60,360 -45,-360 -15,0 z"
+         id="path3296"
+         style="fill:#00ff80;stroke:none" />
+      <path
+         d="m 330,-360 30,360 -15,-360 -15,0 z"
+         id="path3298"
+         style="fill:#00ffc0;stroke:none" />
+      <path
+         d="m 360,-360 0,360 15,-360 -15,0 z"
+         id="path2922"
+         style="fill:#00ffff;stroke:none" />
+      <path
+         d="m 390,-360 -30,360 45,-360 -15,0 z"
+         id="path2924"
+         style="fill:#00c0ff;stroke:none" />
+      <path
+         d="m 420,-360 -60,360 75,-360 -15,0 z"
+         id="path2926"
+         style="fill:#0080ff;stroke:none" />
+      <path
+         d="m 450,-360 -90,360 105,-360 -15,0 z"
+         id="path2928"
+         style="fill:#0040ff;stroke:none" />
+      <path
+         d="M 480,-360 360,0 l 135,-360 -15,0 z"
+         id="path2930"
+         style="fill:#0000ff;stroke:none" />
+      <path
+         d="M 510,-360 360,0 l 165,-360 -15,0 z"
+         id="path2932"
+         style="fill:#4000ff;stroke:none" />
+      <path
+         d="M 540,-360 360,0 l 195,-360 -15,0 z"
+         id="path2934"
+         style="fill:#8000ff;stroke:none" />
+      <path
+         d="M 570,-360 360,0 l 225,-360 -15,0 z"
+         id="path2936"
+         style="fill:#c000ff;stroke:none" />
+      <path
+         d="M 600,-360 360,0 l 255,-360 -15,0 z"
+         id="path2938"
+         style="fill:#ff00ff;stroke:none" />
+      <path
+         d="M 630,-360 360,0 l 285,-360 -15,0 z"
+         id="path2940"
+         style="fill:#ff00c0;stroke:none" />
+      <path
+         d="M 660,-360 360,0 l 315,-360 -15,0 z"
+         id="path2942"
+         style="fill:#ff0080;stroke:none" />
+      <path
+         d="M 690,-360 360,0 l 345,-360 -15,0 z"
+         id="path2944"
+         style="fill:#ff0040;stroke:none" />
+      <path
+         d="M 720,-360 360,0 l 345,-360 15,0 z"
+         id="path3102"
+         style="fill:#ff0020;fill-opacity:1;stroke:none" />
+      <path
+         d="M 690,-360 360,0 l 315,-360 15,0 z"
+         id="path3104"
+         style="fill:#ff0060;fill-opacity:1;stroke:none" />
+      <path
+         d="M 660,-360 360,0 l 285,-360 15,0 z"
+         id="path3106"
+         style="fill:#ff00a0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 630,-360 360,0 l 255,-360 15,0 z"
+         id="path3108"
+         style="fill:#ff00e0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 600,-360 360,0 l 225,-360 15,0 z"
+         id="path3110"
+         style="fill:#e000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 570,-360 360,0 l 195,-360 15,0 z"
+         id="path3112"
+         style="fill:#a000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 540,-360 360,0 l 165,-360 15,0 z"
+         id="path3114"
+         style="fill:#6000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 510,-360 360,0 l 135,-360 15,0 z"
+         id="path3116"
+         style="fill:#2000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 480,-360 360,0 l 105,-360 15,0 z"
+         id="path3118"
+         style="fill:#0020ff;fill-opacity:1;stroke:none" />
+      <path
+         d="m 450,-360 -90,360 75,-360 15,0 z"
+         id="path3120"
+         style="fill:#0060ff;fill-opacity:1;stroke:none" />
+      <path
+         d="m 420,-360 -60,360 45,-360 15,0 z"
+         id="path3122"
+         style="fill:#00a0ff;fill-opacity:1;stroke:none" />
+      <path
+         d="m 390,-360 -30,360 15,-360 15,0 z"
+         id="path3124"
+         style="fill:#00e0ff;fill-opacity:1;stroke:none" />
+      <path
+         d="m 360,-360 0,360 -15,-360 15,0 z"
+         id="path3126"
+         style="fill:#00ffe0;fill-opacity:1;stroke:none" />
+      <path
+         d="m 330,-360 30,360 -45,-360 15,0 z"
+         id="path3128"
+         style="fill:#00ffa0;fill-opacity:1;stroke:none" />
+      <path
+         d="m 300,-360 60,360 -75,-360 15,0 z"
+         id="path3130"
+         style="fill:#00ff60;fill-opacity:1;stroke:none" />
+      <path
+         d="m 270,-360 90,360 -105,-360 15,0 z"
+         id="path3132"
+         style="fill:#00ff20;fill-opacity:1;stroke:none" />
+      <path
+         d="M 240,-360 360,0 225,-360 l 15,0 z"
+         id="path3134"
+         style="fill:#20ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 210,-360 360,0 195,-360 l 15,0 z"
+         id="path3136"
+         style="fill:#60ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 180,-360 360,0 165,-360 l 15,0 z"
+         id="path3138"
+         style="fill:#a0ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 150,-360 360,0 135,-360 l 15,0 z"
+         id="path3140"
+         style="fill:#e0ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 120,-360 360,0 105,-360 l 15,0 z"
+         id="path3142"
+         style="fill:#ffe000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 89.999999,-360 360,0 75,-360 l 14.999999,0 z"
+         id="path3144"
+         style="fill:#ffa000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 60,-360 360,0 45,-360 l 15,0 z"
+         id="path3146"
+         style="fill:#ff6000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 30,-360 360,0 15,-360 l 15,0 z"
+         id="path3148"
+         style="fill:#ff2000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,-360 360,0 l 360,-345 0,-15 z"
+         id="path3740"
+         style="fill:#ff0000;stroke:none" />
+      <path
+         d="M 720,-330 360,0 l 360,-315 0,-15 z"
+         id="path3742"
+         style="fill:#ff4000;stroke:none" />
+      <path
+         d="M 720,-300 360,0 l 360,-285 0,-15 z"
+         id="path3744"
+         style="fill:#ff8000;stroke:none" />
+      <path
+         d="M 720,-270 360,0 l 360,-255 0,-15 z"
+         id="path3746"
+         style="fill:#ffc000;stroke:none" />
+      <path
+         d="M 720,-240 360,0 l 360,-225 0,-15 z"
+         id="path3748"
+         style="fill:#ffff00;stroke:none" />
+      <path
+         d="M 720,-210 360,0 l 360,-195 0,-15 z"
+         id="path3750"
+         style="fill:#c0ff00;stroke:none" />
+      <path
+         d="M 720,-180 360,0 l 360,-165 0,-15 z"
+         id="path3752"
+         style="fill:#80ff00;stroke:none" />
+      <path
+         d="M 720,-150 360,0 l 360,-135 0,-15 z"
+         id="path3754"
+         style="fill:#40ff00;stroke:none" />
+      <path
+         d="M 720,-120 360,0 l 360,-105 0,-15 z"
+         id="path3756"
+         style="fill:#00ff00;stroke:none" />
+      <path
+         d="M 720,-90 360,0 720,-75 720,-90 z"
+         id="path3758"
+         style="fill:#00ff40;stroke:none" />
+      <path
+         d="M 720,-60 360,0 720,-45 720,-60 z"
+         id="path3760"
+         style="fill:#00ff80;stroke:none" />
+      <path
+         d="M 720,-30 360,0 720,-15 720,-30 z"
+         id="path3762"
+         style="fill:#00ffc0;stroke:none" />
+      <path
+         d="M 720,0 360,0 720,15 720,0 z"
+         id="path3764"
+         style="fill:#00ffff;stroke:none" />
+      <path
+         d="M 720,30 360,0 720,45 720,30 z"
+         id="path3766"
+         style="fill:#00c0ff;stroke:none" />
+      <path
+         d="M 720,60 360,0 720,75 720,60 z"
+         id="path3768"
+         style="fill:#0080ff;stroke:none" />
+      <path
+         d="M 720,90 360,0 720,105 720,90 z"
+         id="path3770"
+         style="fill:#0040ff;stroke:none" />
+      <path
+         d="M 720,120 360,0 l 360,135 0,-15 z"
+         id="path3772"
+         style="fill:#0000ff;stroke:none" />
+      <path
+         d="M 720,150 360,0 l 360,165 0,-15 z"
+         id="path3774"
+         style="fill:#4000ff;stroke:none" />
+      <path
+         d="M 720,180 360,0 l 360,195 0,-15 z"
+         id="path3776"
+         style="fill:#8000ff;stroke:none" />
+      <path
+         d="M 720,210 360,0 l 360,225 0,-15 z"
+         id="path3778"
+         style="fill:#c000ff;stroke:none" />
+      <path
+         d="M 720,240 360,0 l 360,255 0,-15 z"
+         id="path3780"
+         style="fill:#ff00ff;stroke:none" />
+      <path
+         d="M 720,270 360,0 l 360,285 0,-15 z"
+         id="path3782"
+         style="fill:#ff00c0;stroke:none" />
+      <path
+         d="M 720,300 360,0 l 360,315 0,-15 z"
+         id="path3784"
+         style="fill:#ff0080;stroke:none" />
+      <path
+         d="M 720,330 360,0 l 360,345 0,-15 z"
+         id="path3786"
+         style="fill:#ff0040;stroke:none" />
+      <path
+         d="M 720,360 360,0 l 360,345 0,15 z"
+         id="path3788"
+         style="fill:#ff0020;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,330 360,0 l 360,315 0,15 z"
+         id="path3790"
+         style="fill:#ff0060;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,300 360,0 l 360,285 0,15 z"
+         id="path3792"
+         style="fill:#ff00a0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,270 360,0 l 360,255 0,15 z"
+         id="path3794"
+         style="fill:#ff00e0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,240 360,0 l 360,225 0,15 z"
+         id="path3796"
+         style="fill:#e000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,210 360,0 l 360,195 0,15 z"
+         id="path3798"
+         style="fill:#a000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,180 360,0 l 360,165 0,15 z"
+         id="path3800"
+         style="fill:#6000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,150 360,0 l 360,135 0,15 z"
+         id="path3802"
+         style="fill:#2000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,120 360,0 l 360,105 0,15 z"
+         id="path3804"
+         style="fill:#0020ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,90 360,0 l 360,75 0,15 z"
+         id="path3806"
+         style="fill:#0060ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,60 360,0 l 360,45 0,15 z"
+         id="path3808"
+         style="fill:#00a0ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,30 360,0 l 360,15 0,15 z"
+         id="path3810"
+         style="fill:#00e0ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,0 360,0 720,-15 720,0 z"
+         id="path3812"
+         style="fill:#00ffe0;fill-opacity:1;stroke:none" />
+      <path
+         d="m 720,-30 -360,30 360,-45 0,15 z"
+         id="path3814"
+         style="fill:#00ffa0;fill-opacity:1;stroke:none" />
+      <path
+         d="m 720,-60 -360,60 360,-75 0,15 z"
+         id="path3816"
+         style="fill:#00ff60;fill-opacity:1;stroke:none" />
+      <path
+         d="m 720,-90 -360,90 360,-105 0,15 z"
+         id="path3818"
+         style="fill:#00ff20;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,-120 360,0 l 360,-135 0,15 z"
+         id="path3820"
+         style="fill:#20ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,-150 360,0 l 360,-165 0,15 z"
+         id="path3822"
+         style="fill:#60ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,-180 360,0 l 360,-195 0,15 z"
+         id="path3824"
+         style="fill:#a0ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,-210 360,0 l 360,-225 0,15 z"
+         id="path3826"
+         style="fill:#e0ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,-240 360,0 l 360,-255 0,15 z"
+         id="path3828"
+         style="fill:#ffe000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,-270 360,0 l 360,-285 0,15 z"
+         id="path3830"
+         style="fill:#ffa000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,-300 360,0 l 360,-315 0,15 z"
+         id="path3832"
+         style="fill:#ff6000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,-330 360,0 l 360,-345 0,15 z"
+         id="path3834"
+         style="fill:#ff2000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,360 360,0 0,345 0,360 z"
+         id="path3838"
+         style="fill:#ff0000;stroke:none" />
+      <path
+         d="M 0,330 360,0 0,315 0,330 z"
+         id="path3840"
+         style="fill:#ff4000;stroke:none" />
+      <path
+         d="M 0,300 360,0 0,285 0,300 z"
+         id="path3842"
+         style="fill:#ff8000;stroke:none" />
+      <path
+         d="M 0,270 360,0 0,255 0,270 z"
+         id="path3844"
+         style="fill:#ffc000;stroke:none" />
+      <path
+         d="M 0,240 360,0 0,225 0,240 z"
+         id="path3846"
+         style="fill:#ffff00;stroke:none" />
+      <path
+         d="M 0,210 360,0 0,195 0,210 z"
+         id="path3848"
+         style="fill:#c0ff00;stroke:none" />
+      <path
+         d="M 0,180 360,0 0,165 0,180 z"
+         id="path3850"
+         style="fill:#80ff00;stroke:none" />
+      <path
+         d="M 0,150 360,0 0,135 0,150 z"
+         id="path3852"
+         style="fill:#40ff00;stroke:none" />
+      <path
+         d="M 0,120 360,0 0,105 0,120 z"
+         id="path3854"
+         style="fill:#00ff00;stroke:none" />
+      <path
+         d="M 0,90 360,0 0,75 0,90 z"
+         id="path3856"
+         style="fill:#00ff40;stroke:none" />
+      <path
+         d="M 0,60 360,0 0,45 0,60 z"
+         id="path3858"
+         style="fill:#00ff80;stroke:none" />
+      <path
+         d="M 0,30 360,0 0,15 0,30 z"
+         id="path3860"
+         style="fill:#00ffc0;stroke:none" />
+      <path
+         d="M 0,0 360,0 0,-15 0,0 z"
+         id="path3862"
+         style="fill:#00ffff;stroke:none" />
+      <path
+         d="M 0,-30 360,0 0,-45 0,-30 z"
+         id="path3864"
+         style="fill:#00c0ff;stroke:none" />
+      <path
+         d="M 0,-60 360,0 0,-75 0,-60 z"
+         id="path3866"
+         style="fill:#0080ff;stroke:none" />
+      <path
+         d="M 0,-90 360,0 0,-105 0,-90 z"
+         id="path3868"
+         style="fill:#0040ff;stroke:none" />
+      <path
+         d="M 0,-120 360,0 0,-135 l 0,15 z"
+         id="path3870"
+         style="fill:#0000ff;stroke:none" />
+      <path
+         d="M 0,-150 360,0 0,-165 l 0,15 z"
+         id="path3872"
+         style="fill:#4000ff;stroke:none" />
+      <path
+         d="M 0,-180 360,0 0,-195 l 0,15 z"
+         id="path3874"
+         style="fill:#8000ff;stroke:none" />
+      <path
+         d="M 0,-210 360,0 0,-225 l 0,15 z"
+         id="path3876"
+         style="fill:#c000ff;stroke:none" />
+      <path
+         d="M 0,-240 360,0 0,-255 l 0,15 z"
+         id="path3878"
+         style="fill:#ff00ff;stroke:none" />
+      <path
+         d="M 0,-270 360,0 0,-285 l 0,15 z"
+         id="path3880"
+         style="fill:#ff00c0;stroke:none" />
+      <path
+         d="M 0,-300 360,0 0,-315 l 0,15 z"
+         id="path3882"
+         style="fill:#ff0080;stroke:none" />
+      <path
+         d="M 0,-330 360,0 0,-345 l 0,15 z"
+         id="path3884"
+         style="fill:#ff0040;stroke:none" />
+      <path
+         d="M 0,-360 360,0 0,-345 0,-360 z"
+         id="path3886"
+         style="fill:#ff0020;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,-330 360,0 0,-315 0,-330 z"
+         id="path3888"
+         style="fill:#ff0060;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,-300 360,0 0,-285 0,-300 z"
+         id="path3890"
+         style="fill:#ff00a0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,-270 360,0 0,-255 0,-270 z"
+         id="path3892"
+         style="fill:#ff00e0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,-240 360,0 0,-225 0,-240 z"
+         id="path3894"
+         style="fill:#e000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,-210 360,0 0,-195 0,-210 z"
+         id="path3896"
+         style="fill:#a000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,-180 360,0 0,-165 0,-180 z"
+         id="path3898"
+         style="fill:#6000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,-150 360,0 0,-135 0,-150 z"
+         id="path3900"
+         style="fill:#2000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,-120 360,0 0,-105 0,-120 z"
+         id="path3902"
+         style="fill:#0020ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,-90 360,0 0,-75 0,-90 z"
+         id="path3904"
+         style="fill:#0060ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,-60 360,0 0,-45 0,-60 z"
+         id="path3906"
+         style="fill:#00a0ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,-30 360,0 0,-15 0,-30 z"
+         id="path3908"
+         style="fill:#00e0ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,0 360,0 0,15 0,0 z"
+         id="path3910"
+         style="fill:#00ffe0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,30 360,0 0,45 0,30 z"
+         id="path3912"
+         style="fill:#00ffa0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,60 360,0 0,75 0,60 z"
+         id="path3914"
+         style="fill:#00ff60;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,90 360,0 0,105 0,90 z"
+         id="path3916"
+         style="fill:#00ff20;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,120 360,0 0,135 0,120 z"
+         id="path3918"
+         style="fill:#20ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,150 360,0 0,165 0,150 z"
+         id="path3920"
+         style="fill:#60ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,180 360,0 0,195 0,180 z"
+         id="path3922"
+         style="fill:#a0ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,210 360,0 0,225 0,210 z"
+         id="path3924"
+         style="fill:#e0ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,240 360,0 0,255 0,240 z"
+         id="path3926"
+         style="fill:#ffe000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,270 360,0 0,285 0,270 z"
+         id="path3928"
+         style="fill:#ffa000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,300 360,0 0,315 0,300 z"
+         id="path3930"
+         style="fill:#ff6000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 0,330 360,0 0,345 0,330 z"
+         id="path3932"
+         style="fill:#ff2000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 720,360 360,0 l 345,360 15,0 z"
+         id="path3936"
+         style="fill:#ff0000;stroke:none" />
+      <path
+         d="M 690,360 360,0 l 315,360 15,0 z"
+         id="path3938"
+         style="fill:#ff4000;stroke:none" />
+      <path
+         d="M 660,360 360,0 l 285,360 15,0 z"
+         id="path3940"
+         style="fill:#ff8000;stroke:none" />
+      <path
+         d="M 630,360 360,0 l 255,360 15,0 z"
+         id="path3942"
+         style="fill:#ffc000;stroke:none" />
+      <path
+         d="M 600,360 360,0 l 225,360 15,0 z"
+         id="path3944"
+         style="fill:#ffff00;stroke:none" />
+      <path
+         d="M 570,360 360,0 l 195,360 15,0 z"
+         id="path3946"
+         style="fill:#c0ff00;stroke:none" />
+      <path
+         d="M 540,360 360,0 l 165,360 15,0 z"
+         id="path3948"
+         style="fill:#80ff00;stroke:none" />
+      <path
+         d="M 510,360 360,0 l 135,360 15,0 z"
+         id="path3950"
+         style="fill:#40ff00;stroke:none" />
+      <path
+         d="M 480,360 360,0 l 105,360 15,0 z"
+         id="path3952"
+         style="fill:#00ff00;stroke:none" />
+      <path
+         d="M 450,360 360,0 l 75,360 15,0 z"
+         id="path3954"
+         style="fill:#00ff40;stroke:none" />
+      <path
+         d="M 420,360 360,0 l 45,360 15,0 z"
+         id="path3956"
+         style="fill:#00ff80;stroke:none" />
+      <path
+         d="M 390,360 360,0 l 15,360 15,0 z"
+         id="path3958"
+         style="fill:#00ffc0;stroke:none" />
+      <path
+         d="m 360,360 0,-360 -15,360 15,0 z"
+         id="path3960"
+         style="fill:#00ffff;stroke:none" />
+      <path
+         d="m 330,360 30,-360 -45,360 15,0 z"
+         id="path3962"
+         style="fill:#00c0ff;stroke:none" />
+      <path
+         d="m 300,360 60,-360 -75,360 15,0 z"
+         id="path3964"
+         style="fill:#0080ff;stroke:none" />
+      <path
+         d="M 270,360 360,0 255,360 l 15,0 z"
+         id="path3966"
+         style="fill:#0040ff;stroke:none" />
+      <path
+         d="M 240,360 360,0 225,360 l 15,0 z"
+         id="path3968"
+         style="fill:#0000ff;stroke:none" />
+      <path
+         d="M 210,360 360,0 195,360 l 15,0 z"
+         id="path3970"
+         style="fill:#4000ff;stroke:none" />
+      <path
+         d="M 180,360 360,0 165,360 l 15,0 z"
+         id="path3972"
+         style="fill:#8000ff;stroke:none" />
+      <path
+         d="M 150,360 360,0 135,360 l 15,0 z"
+         id="path3974"
+         style="fill:#c000ff;stroke:none" />
+      <path
+         d="M 120,360 360,0 105,360 l 15,0 z"
+         id="path3976"
+         style="fill:#ff00ff;stroke:none" />
+      <path
+         d="M 90,360 360,0 75,360 l 15,0 z"
+         id="path3978"
+         style="fill:#ff00c0;stroke:none" />
+      <path
+         d="M 60,360 360,0 45,360 l 15,0 z"
+         id="path3980"
+         style="fill:#ff0080;stroke:none" />
+      <path
+         d="M 30,360 360,0 15,360 l 15,0 z"
+         id="path3982"
+         style="fill:#ff0040;stroke:none" />
+      <path
+         d="M 0,360 360,0 15,360 0,360 z"
+         id="path3984"
+         style="fill:#ff0020;fill-opacity:1;stroke:none" />
+      <path
+         d="M 30,360 360,0 45,360 30,360 z"
+         id="path3986"
+         style="fill:#ff0060;fill-opacity:1;stroke:none" />
+      <path
+         d="M 60,360 360,0 75,360 60,360 z"
+         id="path3988"
+         style="fill:#ff00a0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 90,360 360,0 105,360 90,360 z"
+         id="path3990"
+         style="fill:#ff00e0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 120,360 360,0 135,360 l -15,0 z"
+         id="path3992"
+         style="fill:#e000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 150,360 360,0 165,360 l -15,0 z"
+         id="path3994"
+         style="fill:#a000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 180,360 360,0 195,360 l -15,0 z"
+         id="path3996"
+         style="fill:#6000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 210,360 360,0 225,360 l -15,0 z"
+         id="path3998"
+         style="fill:#2000ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 240,360 360,0 255,360 l -15,0 z"
+         id="path4000"
+         style="fill:#0020ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 270,360 360,0 285,360 270,360 z"
+         id="path4002"
+         style="fill:#0060ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 300,360 360,0 315,360 300,360 z"
+         id="path4004"
+         style="fill:#00a0ff;fill-opacity:1;stroke:none" />
+      <path
+         d="M 330,360 360,0 345,360 330,360 z"
+         id="path4006"
+         style="fill:#00e0ff;fill-opacity:1;stroke:none" />
+      <path
+         d="m 360,360 0,-360 15,360 -15,0 z"
+         id="path4008"
+         style="fill:#00ffe0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 390,360 360,0 l 45,360 -15,0 z"
+         id="path4010"
+         style="fill:#00ffa0;fill-opacity:1;stroke:none" />
+      <path
+         d="M 420,360 360,0 l 75,360 -15,0 z"
+         id="path4012"
+         style="fill:#00ff60;fill-opacity:1;stroke:none" />
+      <path
+         d="M 450,360 360,0 l 105,360 -15,0 z"
+         id="path4014"
+         style="fill:#00ff20;fill-opacity:1;stroke:none" />
+      <path
+         d="M 480,360 360,0 l 135,360 -15,0 z"
+         id="path4016"
+         style="fill:#20ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 510,360 360,0 l 165,360 -15,0 z"
+         id="path4018"
+         style="fill:#60ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 540,360 360,0 l 195,360 -15,0 z"
+         id="path4020"
+         style="fill:#a0ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 570,360 360,0 l 225,360 -15,0 z"
+         id="path4022"
+         style="fill:#e0ff00;fill-opacity:1;stroke:none" />
+      <path
+         d="M 600,360 360,0 l 255,360 -15,0 z"
+         id="path4024"
+         style="fill:#ffe000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 630,360 360,0 l 285,360 -15,0 z"
+         id="path4026"
+         style="fill:#ffa000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 660,360 360,0 l 315,360 -15,0 z"
+         id="path4028"
+         style="fill:#ff6000;fill-opacity:1;stroke:none" />
+      <path
+         d="M 690,360 360,0 l 345,360 -15,0 z"
+         id="path4030"
+         style="fill:#ff2000;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>
